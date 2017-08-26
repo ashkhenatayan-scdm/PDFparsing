@@ -1,0 +1,69 @@
+Designation,Class A-1 Notes,Class A-2 Notes,Class B-1 Notes,Class B-2 Notes,Class C Notes,Class D Notes,Subordinated Notes(3)
+Type,"Senior SecuredFloating Rate","Senior SecuredFloating Rate","Senior SecuredDeferrable FloatingRate","Senior SecuredDeferrable Fixed Rate","Mezzanine SecuredDeferrable FloatingRate","Mezzanine SecuredDeferrable FloatingRate",Subordinated
+Issuer(s),Co-Issuers,Co-Issuers,Co-Issuers,Co-Issuers,Co-Issuers,Issuer,Issuer
+"Initial PrincipalAmount (U.S.$)","$302,500,000 ","$72,500,000 ","$25,000,000 ","$13,000,000 ","$27,000,000 ","$20,000,000 ","$48,450,000 "
+"Expected Moody’sInitial Rating",“Aaa(sf)”,“Aa1(sf)”,“A2(sf)”,“A2(sf)”,“Baa3(sf)”,“Ba3(sf)”,N/A
+"Expected S&P InitialRating",“AAA(sf)”,N/A,N/A,N/A,N/A,N/A,N/A
+Index Maturity(1),3 month,3 month,3 month,3 month,3 month,3 month,N/A
+Interest Rate(2),LIBOR + 1.43%,LIBOR + 1.80%,LIBOR + 2.50%,4.12%,LIBOR + 3.90%,LIBOR + 6.90%,N/A
+"Re-Pricing EligibleNotes",No,Yes,Yes,Yes,Yes,Yes,N/A
+Interest Deferrable,No,No,Yes,Yes,Yes,Yes,N/A
+"Stated Maturity(Payment Date in)",27-Oct,27-Oct,27-Oct,27-Oct,27-Oct,27-Oct,27-Oct
+"MinimumDenominations(U.S.$) (IntegralMultiples)","$250,000($1)","$250,000($1)","$250,000($1)","$250,000($1)","$250,000($1)","$250,000($1)","$250,000($1)"
+Priority Class(es),None,A-1,"A-1, A-2","A-1, A-2","A-1, A-2, B","A-1, A-2, B, C","A-1, A-2, B, C,D"
+Pari Passu Class(es),None,None,B-2,B-1,None,None,None
+Junior Class(es),"A-2, B, C, D,Subordinated","B, C, D, Subordinated","C, D, Subordinated","C, D, Subordinated","D, Subordinated",Subordinated,None
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,Regulation S,,,,,,
+,Common CodeCUSI,ISIN,,,,,
+,,,,,,,
+,,,,,,,
+"of the Senior Secured“AAA”“AA”“A”“BBB”“BB”",,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+“AAA”“AA”“A”“BBB”“BB”,,,,,,,

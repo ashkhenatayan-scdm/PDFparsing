@@ -1,0 +1,8 @@
+Ranking,Tranche type,Interest deferral,Fixing to deal currency,Name,Currency,Original amount,Initial ratings (M),Initial ratings (SNP),Initial ratings (F),Coupon type,Spread,Coupon,Current Coupon,Coupon frequency,Original wal
+1,Standard,NO,1,A1,USD,"302,500,000",Aaa,AAA,,floating,1.43,,,Quarterly,
+2,Standard,NO,1,A2,USD,"72,500,000",Aa1,,,floating,1.8,,,Quarterly,
+3,Standard,PIK,1,B1,USD,"25,000,000",A2,,,floating,2.5,,,Quarterly,
+3,Standard,PIK,1,B2,USD,"13,000,000",A2,,,fixed,,4.12,,Quarterly,
+4,Standard,PIK,1,C,USD,"27,000,000",Baa3,,,floating,3.9,,,Quarterly,
+5,Standard,PIK,1,D,USD,"20,000,000",Ba3,,,floating,6.9,,,Quarterly,
+6,Standard,N/A,1,SUB,USD,"48,450,000",,,,variable,,,,Quarterly,
